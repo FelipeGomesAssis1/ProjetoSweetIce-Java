@@ -1,2 +1,0 @@
-# ProjetoSweetIce-Java
-ProjetoSweetIce Programação
