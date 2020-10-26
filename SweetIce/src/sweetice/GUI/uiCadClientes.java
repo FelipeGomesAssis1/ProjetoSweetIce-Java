@@ -464,6 +464,11 @@ public class uiCadClientes extends javax.swing.JFrame {
         printCpf.setText(txtCpf.getText());
         printEmail.setText(txtEmail.getText());
         printSex.setText(txtSexo.getText());
+        
+        uiSucessoCadCliente okcliente = new  uiSucessoCadCliente();
+        okcliente.setVisible(true);
+        
+        
     }//GEN-LAST:event_btnSalvarActionPerformed
 
     private void txtSexActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtSexActionPerformed

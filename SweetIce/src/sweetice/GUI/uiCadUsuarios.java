@@ -322,6 +322,9 @@ public class uiCadUsuarios extends javax.swing.JFrame {
         txtSenha.setText("");
         txtSenha2.setText("");
         
+        uiSucessoCadUser okUser = new uiSucessoCadUser ();
+        okUser.setVisible(true);
+        
     }//GEN-LAST:event_btnSalvarActionPerformed
 
     private void Finalizar4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_Finalizar4ActionPerformed

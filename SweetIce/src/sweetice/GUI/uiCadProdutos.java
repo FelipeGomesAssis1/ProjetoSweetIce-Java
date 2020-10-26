@@ -401,6 +401,8 @@ public class uiCadProdutos extends javax.swing.JFrame {
         txtCodigo.setText("");
         txtEstoque.setText("");
         
+        uiSucessoCadProdu okProduto = new  uiSucessoCadProdu();
+        okProduto.setVisible(true);
     }//GEN-LAST:event_btnSalvarActionPerformed
 
     private void excluirProdutoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_excluirProdutoActionPerformed

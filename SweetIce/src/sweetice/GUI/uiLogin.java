@@ -230,7 +230,7 @@ public class uiLogin extends javax.swing.JFrame {
     private void btnEntrarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnEntrarActionPerformed
         uiMenu menu = new uiMenu();
         
-        if (txtNome.getText().equals("Felipe") && new String (txtSenha.getPassword()).equals("12345")){
+        if (txtNome.getText().equals("Aula") && new String (txtSenha.getPassword()).equals("12345")){
         
         menu.setVisible(true);
         dispose();
