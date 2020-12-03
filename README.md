@@ -21,7 +21,7 @@
 
 
 ## :art:Layout
- ![Telas](https://i.picasion.com/pic90/982c2829fae076b0f8cda9f04ab39b6f.gif)
+ ![Telas](https://i.picasion.com/pic90/5109336d73b15a9b0c346098f67ed7cd.gif)
  
 
 ## :white_check_mark: Por que utilizar ?
