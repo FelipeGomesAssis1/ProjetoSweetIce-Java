@@ -29,7 +29,7 @@
 
 ## :pencil2: Linguagem
 * JAVA
-* SQL
+* MYSQL
 
 ## :pray: Agracecimentos
 * Professor Márcio Maestrelo Funes. Disciplina: Linguagem de Programação.
